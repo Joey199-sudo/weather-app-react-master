@@ -93,6 +93,7 @@ export default function WeatherApp() {
            open-sourced on GitHub
         </a> &nbsp;
         and  &nbsp;
+        
         <a href="https://shecodes-weather.netlify.app/" target="_blank"
         rel="noopener noreferrer">hosted on Netifly</a>
       </footer>
